@@ -1,18 +1,36 @@
-# Java-file-organizer
-A Java-based file management tool that automatically organizes files into folders based on file types, making file organization faster and easier.
 
-An organizer which organizes the files according to their extensions.
+# Java File Manager
 
-# FEATURES
+A Java-based file management application that organizes files into categorized folders based on their file extensions.
 
--Automatically organizes file by type.
--Also organizes documents, files, images, videos and archives.
+## Features
 
-# TECHNOLOGY USED
+- Automatically organizes files by file type
+- Categorizes documents, images, videos, and archives
+- Simplifies file organization
+- Built using core Java
 
--Java
--os and pathlib modules.
+## Technologies Used
 
-# FUTURE UPDATES
+- Java
+- Object-Oriented Programming (OOP)
+- Java File I/O (`java.nio.file`)
 
--Detection of duplicate files
+## Project Status
+
+🚧 In Development
+
+## Planned Improvements
+
+- Custom folder organization rules
+- Error handling and logging
+- Duplicate file detection
+- Unit testing
+
+## How to Run
+
+Instructions will be added after the initial implementation is complete.
+
+## Author
+
+Developed as a Java programming project to strengthen file handling, OOP, and software development skills.
