@@ -1,5 +1,5 @@
 # python-file-organizer
-A Python-based file management tool that automatically organizes files into folders based on file types, making file organization faster and easier.
+A Java-based file management tool that automatically organizes files into folders based on file types, making file organization faster and easier.
 
 An organizer which organizes the files according to their extensions.
 
@@ -10,7 +10,7 @@ An organizer which organizes the files according to their extensions.
 
 # TECHNOLOGY USED
 
--Python
+-Java
 -os and pathlib modules.
 
 # FUTURE UPDATES
